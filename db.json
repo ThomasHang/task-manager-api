@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": 1748237752849,
+      "username": "cth",
+      "password": "$2b$10$JcNR6AnbFAw.O9CYbW0LouBCDxe6GREnMZ/S05URLSvrtGRe.n9P2"
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1748237793533,
+      "title": "今天也要学习呀",
+      "completed": false
+    }
+  ]
+}
